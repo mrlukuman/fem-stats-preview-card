@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/fem-stats-preview-card/static/css/main.8e570a04.css",
+    "main.js": "/fem-stats-preview-card/static/js/main.57ccc5a4.js",
+    "static/media/image-header-mobile.jpg": "/fem-stats-preview-card/static/media/image-header-mobile.399f71e732a77d1f56c6.jpg",
+    "index.html": "/fem-stats-preview-card/index.html",
+    "main.8e570a04.css.map": "/fem-stats-preview-card/static/css/main.8e570a04.css.map",
+    "main.57ccc5a4.js.map": "/fem-stats-preview-card/static/js/main.57ccc5a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e570a04.css",
+    "static/js/main.57ccc5a4.js"
+  ]
+}
