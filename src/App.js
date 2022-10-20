@@ -1,17 +1,19 @@
 import mobileImage from "./assets/image-header-mobile.jpg";
+
 import "./index.css";
 
 function App() {
   return (
     <div className="main text-center leading-loose">
       <div className=" flex flex-col justify-center w-96 rounded-lg bg-card-bg text-white m-12 md:flex-row-reverse md:w-3/4">
-        <img
-          alt="hero"
-          className="rounded-t-lg md:rounded-t-none md:w-full"
-          src={mobileImage}
-        ></img>
-
-        <div className="flex justify-center flex-col px-6 py-6">
+        <div className="bg-violet md:flex-auto md:rounded-r-lg md:flex-auto">
+          <img
+            alt="hero"
+            className="rounded-t-lg md:rounded-t-none h-full md:rounded-r-lg"
+            src={mobileImage}
+          ></img>
+        </div>
+        <div className="flex justify-center flex-col px-6 py-6 md:flex-auto">
           <div>
             <h1 className="pb-6 text-3xl">
               Get <span className="text-violet">insights</span> that help your
